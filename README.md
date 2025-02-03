@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Solrasido55/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Solrasido55/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Solrasido55/LeetCode/tree/master/0136-single-number) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Solrasido55/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Solrasido55/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solrasido55/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Solrasido55/LeetCode/tree/master/0049-group-anagrams) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Solrasido55/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solrasido55/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Solrasido55/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Matrix
 |  |
 | ------- |
