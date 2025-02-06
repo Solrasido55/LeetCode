@@ -2,7 +2,7 @@ function maxArea(height: number[]): number {
     let res = 0;
     let l = 0;
     let r = height.length - 1;
-    while (l !== r) {
+    while (l < r) {
         const w = r - l;
         const lh = height[l];
         const rh = height[r];
