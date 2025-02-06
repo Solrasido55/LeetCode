@@ -1,106 +1,51 @@
-# LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Questions and Answers
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Solrasido55/LeetCode/tree/master/0001-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/Solrasido55/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
-| [0027-remove-element](https://github.com/Solrasido55/LeetCode/tree/master/0027-remove-element) |
-| [0048-rotate-image](https://github.com/Solrasido55/LeetCode/tree/master/0048-rotate-image) |
-| [0049-group-anagrams](https://github.com/Solrasido55/LeetCode/tree/master/0049-group-anagrams) |
-| [0136-single-number](https://github.com/Solrasido55/LeetCode/tree/master/0136-single-number) |
-| [2292-counting-words-with-a-given-prefix](https://github.com/Solrasido55/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Solrasido55/LeetCode/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Solrasido55/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Solrasido55/LeetCode/tree/master/0013-roman-to-integer) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Solrasido55/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0049-group-anagrams](https://github.com/Solrasido55/LeetCode/tree/master/0049-group-anagrams) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Solrasido55/LeetCode/tree/master/0002-add-two-numbers) |
-| [0023-merge-k-sorted-lists](https://github.com/Solrasido55/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-| [0024-swap-nodes-in-pairs](https://github.com/Solrasido55/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
-| [0061-rotate-list](https://github.com/Solrasido55/LeetCode/tree/master/0061-rotate-list) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Solrasido55/LeetCode/tree/master/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/Solrasido55/LeetCode/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/Solrasido55/LeetCode/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/Solrasido55/LeetCode/tree/master/0013-roman-to-integer) |
-| [0048-rotate-image](https://github.com/Solrasido55/LeetCode/tree/master/0048-rotate-image) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Solrasido55/LeetCode/tree/master/0002-add-two-numbers) |
-| [0024-swap-nodes-in-pairs](https://github.com/Solrasido55/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Solrasido55/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Solrasido55/LeetCode/tree/master/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/Solrasido55/LeetCode/tree/master/0014-longest-common-prefix) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Solrasido55/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solrasido55/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0049-group-anagrams](https://github.com/Solrasido55/LeetCode/tree/master/0049-group-anagrams) |
-| [2292-counting-words-with-a-given-prefix](https://github.com/Solrasido55/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Solrasido55/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Solrasido55/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Solrasido55/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
-| [0023-merge-k-sorted-lists](https://github.com/Solrasido55/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/Solrasido55/LeetCode/tree/master/0014-longest-common-prefix) |
-## Backtracking
-|  |
-| ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Solrasido55/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Solrasido55/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-## Merge Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Solrasido55/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Solrasido55/LeetCode/tree/master/0027-remove-element) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solrasido55/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0061-rotate-list](https://github.com/Solrasido55/LeetCode/tree/master/0061-rotate-list) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solrasido55/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [2292-counting-words-with-a-given-prefix](https://github.com/Solrasido55/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Solrasido55/LeetCode/tree/master/0048-rotate-image) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Solrasido55/LeetCode/tree/master/0049-group-anagrams) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Solrasido55/LeetCode/tree/master/0136-single-number) |
-<!---LeetCode Topics End-->
+## Stats
+
+| Difficulty | Solved Count |
+| --- | --- |
+| Easy | 8 |
+| Medium | 10 |
+| Hard | 4 |
+
+### Total Solved: 22
+
+## Problems
+
+### Easy
+
+| 번호 | 제목 |
+| --- | --- |
+| 1 | [Two Sum](./0001-two-sum) |
+| 9 | [Palindrome Number](./0009-palindrome-number) |
+| 13 | [Roman to Integer](./0013-roman-to-integer) |
+| 14 | [Longest Common Prefix](./0014-longest-common-prefix) |
+| 27 | [Remove Element](./0027-remove-element) |
+| 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| 136 | [Single Number](./0136-single-number) |
+| 2292 | [Counting Words With a Given Prefix](./2292-counting-words-with-a-given-prefix) |
+
+### Medium
+
+| 번호 | 제목 |
+| --- | --- |
+| 2 | [Add Two Numbers](./0002-add-two-numbers) |
+| 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) |
+| 6 | [Zigzag Conversion](./0006-zigzag-conversion) |
+| 7 | [Reverse Integer](./0007-reverse-integer) |
+| 11 | [Container With Most Water](./0011-container-with-most-water) |
+| 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) |
+| 24 | [Swap Nodes in Pairs](./0024-swap-nodes-in-pairs) |
+| 48 | [Rotate Image](./0048-rotate-image) |
+| 49 | [Group Anagrams](./0049-group-anagrams) |
+| 61 | [Rotate List](./0061-rotate-list) |
+
+### Hard
+
+| 번호 | 제목 |
+| --- | --- |
+| 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) |
+| 10 | [Regular Expression Matching](./0010-regular-expression-matching) |
+| 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) |
+| 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) |
+
