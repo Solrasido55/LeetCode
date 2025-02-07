@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 8 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 4 |
 
-### Total Solved: 22
+### Total Solved: 23
 
 ## Problems
 
@@ -36,6 +36,7 @@
 | 11 | [Container With Most Water](./0011-container-with-most-water) |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) |
 | 24 | [Swap Nodes in Pairs](./0024-swap-nodes-in-pairs) |
+| 43 | [Multiply Strings](./0043-multiply-strings) |
 | 48 | [Rotate Image](./0048-rotate-image) |
 | 49 | [Group Anagrams](./0049-group-anagrams) |
 | 61 | [Rotate List](./0061-rotate-list) |
