@@ -4,11 +4,11 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 11 |
 | Hard | 4 |
 
-### Total Solved: 23
+### Total Solved: 24
 
 ## Problems
 
@@ -24,6 +24,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | 136 | [Single Number](./0136-single-number) |
 | 2292 | [Counting Words With a Given Prefix](./2292-counting-words-with-a-given-prefix) |
+| 3174 | [Clear Digits](./3174-clear-digits) |
 
 ### Medium
 
