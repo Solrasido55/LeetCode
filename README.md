@@ -6,9 +6,9 @@
 | --- | --- |
 | Easy | 9 |
 | Medium | 11 |
-| Hard | 4 |
+| Hard | 5 |
 
-### Total Solved: 24
+### Total Solved: 25
 
 ## Problems
 
@@ -50,4 +50,5 @@
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) |
+| 41 | [First Missing Positive](./0041-first-missing-positive) |
 
