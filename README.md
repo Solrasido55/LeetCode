@@ -4,11 +4,11 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 11 |
 | Hard | 6 |
 
-### Total Solved: 31
+### Total Solved: 32
 
 ## Problems
 
@@ -23,6 +23,7 @@
 | 27 | [Remove Element](./0027-remove-element) |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) |
+| 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) |
 | 118 | [Pascal's Triangle](./0118-pascals-triangle) |
 | 119 | [Pascal's Triangle II](./0119-pascals-triangle-ii) |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) |
