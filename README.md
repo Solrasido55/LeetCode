@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 15 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 6 |
 
-### Total Solved: 32
+### Total Solved: 33
 
 ## Problems
 
@@ -47,6 +47,7 @@
 | 48 | [Rotate Image](./0048-rotate-image) |
 | 49 | [Group Anagrams](./0049-group-anagrams) |
 | 61 | [Rotate List](./0061-rotate-list) |
+| 1352 | [Product of the Last K Numbers](./1352-product-of-the-last-k-numbers) |
 
 ### Hard
 
