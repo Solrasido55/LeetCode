@@ -1,12 +1,13 @@
-type Stack []string
+type Stack []rune
 
 func (s *Stack) IsEmpty() bool {
     return len(*s) == 0
 }
 
-func (s *Stack) Pop() string {
+func (s *Stack) Pop() rune {
     if s.IsEmpty() {
-        return ""
+        var r rune
+        return r
     }
     top := len(*s) - 1
     item := (*s)[top]
@@ -14,7 +15,7 @@ func (s *Stack) Pop() string {
     return item
 }
 
-func (s *Stack) Push(item string) {
+func (s *Stack) Push(item rune) {
     *s = append(*s, item)
 }
 
@@ -24,17 +25,16 @@ func isValid(s string) bool {
         return false
     }
 
-    bracketPairs := map[string]string {
-        "]": "[",
-        "}": "{",
-        ")": "(",
+    bracketPairs := map[rune]rune {
+        ']': '[',
+        '}': '{',
+        ')': '(',
     }
     
     stack := Stack{}
     
-    for _, char := range s {
-        c := string(char)
-        if c == "[" || c == "{" || c == "(" {
+    for _, c := range s {
+        if c == '[' || c == '{' || c == '(' {
             stack.Push(c)
             continue
         }
