@@ -16,7 +16,7 @@ function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode
     const dummy = new ListNode();
     let current = dummy;
     
-    while (list1 || list2) {
+    while (list1 && list2) {
         const val1 = list1?.val ?? Infinity
         const val2 = list2?.val ?? Infinity
         
@@ -29,6 +29,12 @@ function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode
         }
 
         current = current.next;
+    }
+
+    if (list1) {
+        current.next = list1;
+    } else {
+        current.next = list2;
     }
 
     return dummy.next;
