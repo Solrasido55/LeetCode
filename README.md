@@ -4,11 +4,11 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 17 |
+| Easy | 18 |
 | Medium | 14 |
 | Hard | 6 |
 
-### Total Solved: 37
+### Total Solved: 38
 
 ## Problems
 
@@ -22,6 +22,7 @@
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) |
+| 26 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) |
 | 27 | [Remove Element](./0027-remove-element) |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) |
