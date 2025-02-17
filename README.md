@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 17 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 6 |
 
-### Total Solved: 36
+### Total Solved: 37
 
 ## Problems
 
@@ -46,6 +46,7 @@
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) |
 | 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) |
 | 24 | [Swap Nodes in Pairs](./0024-swap-nodes-in-pairs) |
+| 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) |
 | 43 | [Multiply Strings](./0043-multiply-strings) |
 | 48 | [Rotate Image](./0048-rotate-image) |
 | 49 | [Group Anagrams](./0049-group-anagrams) |
