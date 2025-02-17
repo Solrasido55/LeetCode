@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 16 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 6 |
 
-### Total Solved: 34
+### Total Solved: 35
 
 ## Problems
 
@@ -43,6 +43,7 @@
 | 7 | [Reverse Integer](./0007-reverse-integer) |
 | 11 | [Container With Most Water](./0011-container-with-most-water) |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) |
+| 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) |
 | 24 | [Swap Nodes in Pairs](./0024-swap-nodes-in-pairs) |
 | 43 | [Multiply Strings](./0043-multiply-strings) |
 | 48 | [Rotate Image](./0048-rotate-image) |
