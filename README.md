@@ -4,11 +4,11 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 12 |
 | Hard | 6 |
 
-### Total Solved: 33
+### Total Solved: 34
 
 ## Problems
 
@@ -20,6 +20,7 @@
 | 9 | [Palindrome Number](./0009-palindrome-number) |
 | 13 | [Roman to Integer](./0013-roman-to-integer) |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) |
+| 20 | [Valid Parentheses](./0020-valid-parentheses) |
 | 27 | [Remove Element](./0027-remove-element) |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) |
