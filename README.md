@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 19 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 6 |
 
-### Total Solved: 39
+### Total Solved: 40
 
 ## Problems
 
@@ -50,6 +50,7 @@
 | 24 | [Swap Nodes in Pairs](./0024-swap-nodes-in-pairs) |
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) |
 | 43 | [Multiply Strings](./0043-multiply-strings) |
+| 46 | [Permutations](./0046-permutations) |
 | 48 | [Rotate Image](./0048-rotate-image) |
 | 49 | [Group Anagrams](./0049-group-anagrams) |
 | 61 | [Rotate List](./0061-rotate-list) |
