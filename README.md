@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 19 |
-| Medium | 15 |
+| Medium | 16 |
 | Hard | 6 |
 
-### Total Solved: 40
+### Total Solved: 41
 
 ## Problems
 
@@ -45,6 +45,7 @@
 | 6 | [Zigzag Conversion](./0006-zigzag-conversion) |
 | 7 | [Reverse Integer](./0007-reverse-integer) |
 | 11 | [Container With Most Water](./0011-container-with-most-water) |
+| 12 | [Integer to Roman](./0012-integer-to-roman) |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) |
 | 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) |
 | 24 | [Swap Nodes in Pairs](./0024-swap-nodes-in-pairs) |
