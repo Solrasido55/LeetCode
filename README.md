@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 19 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 6 |
 
-### Total Solved: 41
+### Total Solved: 42
 
 ## Problems
 
@@ -54,6 +54,7 @@
 | 46 | [Permutations](./0046-permutations) |
 | 48 | [Rotate Image](./0048-rotate-image) |
 | 49 | [Group Anagrams](./0049-group-anagrams) |
+| 54 | [Spiral Matrix](./0054-spiral-matrix) |
 | 61 | [Rotate List](./0061-rotate-list) |
 | 1352 | [Product of the Last K Numbers](./1352-product-of-the-last-k-numbers) |
 
