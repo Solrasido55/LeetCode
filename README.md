@@ -5,10 +5,10 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 19 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 6 |
 
-### Total Solved: 42
+### Total Solved: 43
 
 ## Problems
 
@@ -56,6 +56,7 @@
 | 49 | [Group Anagrams](./0049-group-anagrams) |
 | 54 | [Spiral Matrix](./0054-spiral-matrix) |
 | 61 | [Rotate List](./0061-rotate-list) |
+| 873 | [Length of Longest Fibonacci Subsequence](./0873-length-of-longest-fibonacci-subsequence) |
 | 1352 | [Product of the Last K Numbers](./1352-product-of-the-last-k-numbers) |
 
 ### Hard
