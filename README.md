@@ -4,11 +4,11 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 19 |
+| Easy | 20 |
 | Medium | 18 |
 | Hard | 6 |
 
-### Total Solved: 43
+### Total Solved: 44
 
 ## Problems
 
@@ -32,6 +32,7 @@
 | 119 | [Pascal's Triangle II](./0119-pascals-triangle-ii) |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) |
 | 136 | [Single Number](./0136-single-number) |
+| 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) |
 | 938 | [Range Sum of BST](./0938-range-sum-of-bst) |
 | 2292 | [Counting Words With a Given Prefix](./2292-counting-words-with-a-given-prefix) |
 | 3174 | [Clear Digits](./3174-clear-digits) |
