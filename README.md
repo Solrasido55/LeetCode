@@ -4,11 +4,11 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 20 |
+| Easy | 21 |
 | Medium | 18 |
 | Hard | 6 |
 
-### Total Solved: 44
+### Total Solved: 45
 
 ## Problems
 
@@ -26,6 +26,7 @@
 | 27 | [Remove Element](./0027-remove-element) |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | 35 | [Search Insert Position](./0035-search-insert-position) |
+| 66 | [Plus One](./0066-plus-one) |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) |
 | 118 | [Pascal's Triangle](./0118-pascals-triangle) |
